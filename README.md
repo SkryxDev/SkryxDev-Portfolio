@@ -21,7 +21,7 @@ Il sito è disponibile online su: https://skryxdev.eu
 Clona il repository:
 
 ``` bash
-git clone https://github.com/skryxdev/skryxdevportfolio.git
+git clone https://github.com/skryxdev/SkryxDev-Portfolio.git
 cd portfolio
 ```
 
